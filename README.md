@@ -1,12 +1,15 @@
-# streams
+## streams   ![Q](https://img.shields.io/badge/Q-2-lightgrey.svg) ![Cycle](https://img.shields.io/badge/cycle-5-blue.svg)
 a connection point in uPort's decentralized structure <br>
 
-**Quick Links:** Current cycle | [Q2 OKR Tracker](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=146119440) | [Q2 Roadmap (WIP)](https://docs.google.com/spreadsheets/d/156SwdKMKuC_MEDWi8SEqQHxOwBn1vfB5wcQkeACKJpQ/edit#gid=0) | Find your stream <br>
+**Quick Links:** [Current cycle]() | [Q2 OKR Tracker](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=146119440) | [Q2 Roadmap (WIP)](https://docs.google.com/spreadsheets/d/156SwdKMKuC_MEDWi8SEqQHxOwBn1vfB5wcQkeACKJpQ/edit#gid=0) | [Find your stream]() <br>
 
-![Q](https://img.shields.io/badge/Q-2-lightgrey.svg) ![Cycle](https://img.shields.io/badge/cycle-5-blue.svg)
+
 
 ### Cycles
-[ new page ]
+
+* [Current Cycle]()
+* [Past Cycles]()
+* [Retrospectives]()
 
 ### Streams
 
