@@ -1,5 +1,4 @@
-# Streams   ![Q](https://img.shields.io/badge/Q-2-lightgrey.svg) ![Cycle](https://img.shields.io/badge/cycle-5-blue.svg)
-a connection point in uPort's decentralized structure <br>
+# streams   ![Q](https://img.shields.io/badge/Q-2-lightgrey.svg) ![Cycle](https://img.shields.io/badge/cycle-5-blue.svg)
 
 [Current cycle](https://docs.google.com/document/d/1RuUkECPy0YIV_wKculNcOx4yE0FgutmRmQMDActgMJg/edit)  |  [Q2 OKR Tracker](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=146119440)  |  [Q2 Roadmap (WIP)](https://docs.google.com/spreadsheets/d/156SwdKMKuC_MEDWi8SEqQHxOwBn1vfB5wcQkeACKJpQ/edit#gid=0)  |  [Metrics Dashboard](https://radar.uport.space/d/MFjYE8ziz/initial-metrics?orgId=1)  |  [Find your stream](https://github.com/uport-project/streams#streams) <br>
 
@@ -7,11 +6,11 @@ a connection point in uPort's decentralized structure <br>
 
 * [Current Cycle]()
 * [Past Cycles]()
-* [Retrospectives]()
+* [Retrospectives](https://github.com/uport-project/streams#retrospectives)
 
 ### Needs Feedback
 Living documents that need feedback this cycle
-* 
+* ?
 
 ### Streams
 
@@ -44,7 +43,7 @@ Living documents that need feedback this cycle
 * [uPort WordPress plugin](https://github.com/uport-project/uport-wordpress-plugin)
 
 ### Goals, Vision, Strategy
-* [Palapables](https://consensys.quip.com/0sg4A9PtwNKc/uPort-Principles-Palapa-ples-Draft)
+* [Palapables](https://consensys.quip.com/0sg4A9PtwNKc/uPort-Principles-Palapa-ples-Draft) - an overview of our team operating principles
 * [Vision (2017)](https://consensys.quip.com/3EDPA0l7TiVG/Uport-Vision-and-Strategy)
 * [2018 RAC Deck](https://docs.google.com/presentation/d/18Zc39HMLkzOUQWCvWM_aFM1XNSpOmGr8nF5Riy9V9ME/edit#slide=id.g3143079279_1_1513)
 
@@ -61,18 +60,18 @@ OKRs
 * [Sena](https://docs.google.com/document/d/1dBNpauiKCKWD2SfvHWtkdg_sjq8PHIe2CopxiEOmC4E/edit#heading=h.aczldethkqfb)
 
 ### Decision Papers
-* [Mobile App DID Method](https://docs.google.com/document/d/17JPTCpclyhcMlnfsvUYEnm-Crme85yx3-CarpbbglKs/edit#heading=h.6v972sjcwjqw)
-* [MSFT Access to Mobile Repo](https://docs.google.com/document/d/1jBjAQ8N7zJtfipjOTPZ-k003-q4MIFpg7IlYDlR-Cic/edit)
+* [Mobile App DID Method](https://docs.google.com/document/d/17JPTCpclyhcMlnfsvUYEnm-Crme85yx3-CarpbbglKs/edit#heading=h.6v972sjcwjqw) - result: Ethr-DID in mobile app
+* [MSFT Access to Mobile Repo](https://docs.google.com/document/d/1jBjAQ8N7zJtfipjOTPZ-k003-q4MIFpg7IlYDlR-Cic/edit) - result: no code collaboration with MSFT
 
 ### Retrospectives
-standard
+Standard (retros of past two weeks' cycle)
 * [cycle 5]()
 * [cycle 4]()
 * [cycle 3](http://funretro.github.io/distributed/#d385b5f7-7e92-49ed-8f89-5eb53c624f4d)
 * [cycle 2](http://funretro.github.io/distributed/#f0e17b00-0707-4599-8270-288b4be1b6ef)
 * [cycle 1 (2/6)](http://funretro.github.io/distributed/?sort=votes#8c977db9-3c42-494a-8c9a-f3602cdf493b)
 
-meta
+Meta (retros of cycle & OKR process)
 * [Cycle Process Meta Retro](http://funretro.github.io/distributed/#e9e10fb4-ae85-45f0-bb08-2832b9073511)
 * [Q1 OKR Retro (by Stream)](http://funretro.github.io/distributed/#5b9771a1-c2dc-455e-9355-0b5badb9a8f4)
 * [Q1 OKR Retro (Group)](http://funretro.github.io/distributed/?sort=votes#c8ceb30b-dd00-49f8-b835-5bef0d9edd73) 
