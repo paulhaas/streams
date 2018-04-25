@@ -1,13 +1,17 @@
 # streams   ![Q](https://img.shields.io/badge/Q-2-lightgrey.svg) ![Cycle](https://img.shields.io/badge/cycle-5-blue.svg)
 a connection point in uPort's decentralized structure <br>
 
-**Quick Links:** [Current cycle]() | [Q2 OKR Tracker](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=146119440) | [Q2 Roadmap (WIP)](https://docs.google.com/spreadsheets/d/156SwdKMKuC_MEDWi8SEqQHxOwBn1vfB5wcQkeACKJpQ/edit#gid=0) | [Find your stream](https://github.com/uport-project/streams#streams) <br>
+[Current cycle]() | [Q2 OKR Tracker](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=146119440) | [Q2 Roadmap (WIP)](https://docs.google.com/spreadsheets/d/156SwdKMKuC_MEDWi8SEqQHxOwBn1vfB5wcQkeACKJpQ/edit#gid=0) | [Find your stream](https://github.com/uport-project/streams#streams) <br>
 
 ### Cycles
 
 * [Current Cycle]()
 * [Past Cycles]()
 * [Retrospectives]()
+
+### Needs Feedback
+Living documents that need feedback this cycle
+
 
 ### Streams
 
@@ -18,7 +22,7 @@ a connection point in uPort's decentralized structure <br>
 | **Decentralization** | **Community**  | **Marketing** |
 | 📊 [Clubhouse Board](https://app.clubhouse.io/self-id/stories/workspace/7551/decentralization-stream) <br> 📎 [Sync Notes](https://app.clubhouse.io/self-id/stories/workspace/7551/decentralization-stream) <br> 🚀 [OKRs](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=133736807) ▓ [Q Tracker](https://airtable.com/tblPUE1kuQzJa6aaz/viw07dvcoJvMq5OXZ) | 📊 [Clubhouse Board](https://app.clubhouse.io/self-id/stories/workspace/7566/community) <br> 🚀 [OKRs](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=1350546691) <br> [More...](https://github.com/uport-project/streams#community-projects)| 📊 [Clubhouse Board](https://app.clubhouse.io/self-id/stories/workspace/9442/marketing-stream) <br> 🚀 [OKRs](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=123592291) <br> 📝 [Content Pipeline](https://airtable.com/tblg80aGygyBYlLvu/viwJdGB2JDV07rCyj)|
 | **Biz Ops** | **Product Ops** | **Partnerships** |
-| 📊 [Clubhouse Board](https://app.clubhouse.io/self-id/stories/workspace/9444/biz-ops-stream) <br> 🚀 [OKRs](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=768073157) <br> 🔒 [GDPR Overview](https://docs.google.com/document/d/1enXJ2CakH5fn6iFqu-TVDggPRQGRMCjY3Y-ClrP2qDg/edit) <br> 🗓 [Events](https://airtable.com/tblEosHDlz3iBjlUw/viweykr8Nw7wfOXTP)| 📎 [Sync Notes](https://docs.google.com/document/d/1MiIpbl88SPtMC0qlQT_zKMJ-vOLSCREf3oIgz285LoU/edit) <br> 🔎 [User Testing](https://airtable.com/tbl48SZ7JDK4BJ3Ba/viwdOHRhUqDlPgmHU) <br> 🚀[OKRs](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=1581337366) | 📊 [Clubhouse Board](https://app.clubhouse.io/self-id/stories/workspace/9443/partnerships-stream) <br> 🚀 [OKRs](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=1983819787) |
+| 📊 [Clubhouse Board](https://app.clubhouse.io/self-id/stories/workspace/9444/biz-ops-stream) <br> 🚀 [OKRs](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=768073157) <br> 🔒 [GDPR Overview](https://docs.google.com/document/d/1enXJ2CakH5fn6iFqu-TVDggPRQGRMCjY3Y-ClrP2qDg/edit) <br> 🗓 [Events](https://airtable.com/tblEosHDlz3iBjlUw/viweykr8Nw7wfOXTP) <br> 👫 [Hiring Control Center](https://consensys.quip.com/s52sAcblL9Ni/Hiring-Center)<br> 🛫 [Event Submission Form](https://airtable.com/shrO8tdh8prtUAWcx)| 📎 [Sync Notes](https://docs.google.com/document/d/1MiIpbl88SPtMC0qlQT_zKMJ-vOLSCREf3oIgz285LoU/edit) <br> 🔎 [User Testing](https://airtable.com/tbl48SZ7JDK4BJ3Ba/viwdOHRhUqDlPgmHU) <br> 🚀[OKRs](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=1581337366) <br> 💜 [Brand Assets](https://drive.google.com/drive/folders/1hlchdD50altEsDjPSGthikSh_tAuvUS6)| 📊 [Clubhouse Board](https://app.clubhouse.io/self-id/stories/workspace/9443/partnerships-stream) <br> 🚀 [OKRs](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=1983819787) <br> 👾 [Live Integrations](https://consensys.quip.com/QqpDA4cPO9Bd/uPort-Integrations-Overview#fEFACAkabDp) |
 
 ### Guidelines & Checklists
 * [Open-Source Checklist](https://docs.google.com/document/d/1bdDcxqjShTnUhpBNg36FYo4dZOrofVU0EDW4QAaZ1Hs/edit?usp=sharing)
@@ -26,8 +30,11 @@ a connection point in uPort's decentralized structure <br>
 * Infra Release Checklist (WIP)
 
 ### OKRs
-[Q2 OKRs](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=146119440)
-[Q1 OKRs](https://docs.google.com/spreadsheets/d/1l4CBsgBbz0kfKkr0rPizn3uzXFnShGzE19XBugMRmu0/edit#gid=29844305)
+* [Q2 OKRs](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=146119440)
+* [Q1 OKRs](https://docs.google.com/spreadsheets/d/1l4CBsgBbz0kfKkr0rPizn3uzXFnShGzE19XBugMRmu0/edit#gid=29844305)
+
+### Misc Resources
+* [External Decks](https://drive.google.com/drive/folders/150Pq5nOSVCr7k41_I7ul8itedQHhWfBu)
 
 ### Community Projects
 * [Buildbox](https://github.com/uport-project/buidlbox)
