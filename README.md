@@ -1,7 +1,7 @@
-# streams   ![Q](https://img.shields.io/badge/Q-2-lightgrey.svg) ![Cycle](https://img.shields.io/badge/cycle-5-blue.svg)
+# Streams   ![Q](https://img.shields.io/badge/Q-2-lightgrey.svg) ![Cycle](https://img.shields.io/badge/cycle-5-blue.svg)
 a connection point in uPort's decentralized structure <br>
 
-[Current cycle](https://docs.google.com/document/d/1RuUkECPy0YIV_wKculNcOx4yE0FgutmRmQMDActgMJg/edit) | [Q2 OKR Tracker](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=146119440) | [Q2 Roadmap (WIP)](https://docs.google.com/spreadsheets/d/156SwdKMKuC_MEDWi8SEqQHxOwBn1vfB5wcQkeACKJpQ/edit#gid=0) | [Metrics Dashboard](https://radar.uport.space/d/MFjYE8ziz/initial-metrics?orgId=1) | [Find your stream](https://github.com/uport-project/streams#streams) <br>
+[Current cycle](https://docs.google.com/document/d/1RuUkECPy0YIV_wKculNcOx4yE0FgutmRmQMDActgMJg/edit)  |  [Q2 OKR Tracker](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=146119440)  |  [Q2 Roadmap (WIP)](https://docs.google.com/spreadsheets/d/156SwdKMKuC_MEDWi8SEqQHxOwBn1vfB5wcQkeACKJpQ/edit#gid=0)  |  [Metrics Dashboard](https://radar.uport.space/d/MFjYE8ziz/initial-metrics?orgId=1)  |  [Find your stream](https://github.com/uport-project/streams#streams) <br>
 
 ### Cycles
 
@@ -11,7 +11,7 @@ a connection point in uPort's decentralized structure <br>
 
 ### Needs Feedback
 Living documents that need feedback this cycle
-* ?
+* 
 
 ### Streams
 
@@ -20,7 +20,7 @@ Living documents that need feedback this cycle
 | **Mobile**  | **Dev Experience**  | **Infrastructure** |
 | 📊 [Clubhouse Board](https://app.clubhouse.io/self-id/stories/workspace/7549/mobile-stream) <br> 📎 [Sync Notes](https://docs.google.com/document/d/1jUSTfd-_B-UyU6SoLhXNhENHvwNhUXnw6tMK1tkPVdU/edit) <br> 🚀 [OKRs](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=1533796517) <br> | 📊 [Clubhouse Board](https://app.clubhouse.io/self-id/stories/workspace/7551/decentralization-stream) <br> 📎 [Sync Notes](https://docs.google.com/document/d/1JveTB_fFFUW-wHSnrn3tIJ88Yla3Y7j0P2RH0JotEz4/edit) <br> 🚀 [OKRs](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=1207657588) <br> 🗣 [Developer Feedback](https://airtable.com/tblaA7M58AMDQW9gX/viwdRFbypq0U2aW9w) <br>| 📊 [Clubhouse Board](https://app.clubhouse.io/self-id/stories/workspace/7550/infra-stream) <br> 📎 [Sync Notes](https://docs.google.com/document/d/1lzq5zBNAEyZQV3ibYUv235rLrpgvjyltvnqImAVkxtY/edit) <br> 🚀 [OKRs](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=146119440) |
 | **Decentralization** | **Community**  | **Marketing** |
-| 📊 [Clubhouse Board](https://app.clubhouse.io/self-id/stories/workspace/7551/decentralization-stream) <br> 📎 [Sync Notes](https://app.clubhouse.io/self-id/stories/workspace/7551/decentralization-stream) <br> 🚀 [OKRs](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=133736807) <br> ▓ [Q Tracker](https://airtable.com/tblPUE1kuQzJa6aaz/viw07dvcoJvMq5OXZ) | 📊 [Clubhouse Board](https://app.clubhouse.io/self-id/stories/workspace/7566/community) <br> 🚀 [OKRs](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=1350546691) <br> [More...](https://github.com/uport-project/streams#community-projects)| 📊 [Clubhouse Board](https://app.clubhouse.io/self-id/stories/workspace/9442/marketing-stream) <br> 🚀 [OKRs](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=123592291) <br> 📝 [Content Pipeline](https://airtable.com/invite/l?inviteId=inv5Z8r6vIWH1hcmJ&inviteToken=8f02a074ce09de2c2091ee5291507fd179c7e9c84fffcbb76c1423cf7d900486)|
+| 📊 [Clubhouse Board](https://app.clubhouse.io/self-id/stories/workspace/7551/decentralization-stream) <br> 📎 [Sync Notes](https://app.clubhouse.io/self-id/stories/workspace/7551/decentralization-stream) <br> 🚀 [OKRs](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=133736807) <br> ▓ [Q Tracker](https://airtable.com/tblPUE1kuQzJa6aaz/viw07dvcoJvMq5OXZ) | 📊 [Clubhouse Board](https://app.clubhouse.io/self-id/stories/workspace/7566/community) <br> 🚀 [OKRs](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=1350546691) <br> 🎁 [Hackathon Projects](https://github.com/uport-project/hackathon-projects) <br> [More...](https://github.com/uport-project/streams#community-projects)| 📊 [Clubhouse Board](https://app.clubhouse.io/self-id/stories/workspace/9442/marketing-stream) <br> 🚀 [OKRs](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=123592291) <br> 📝 [Content Pipeline](https://airtable.com/invite/l?inviteId=inv5Z8r6vIWH1hcmJ&inviteToken=8f02a074ce09de2c2091ee5291507fd179c7e9c84fffcbb76c1423cf7d900486)|
 | **Biz Ops** | **Product Ops** | **Partnerships** |
 | 📊 [Clubhouse Board](https://app.clubhouse.io/self-id/stories/workspace/9444/biz-ops-stream) <br> 🚀 [OKRs](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=768073157) <br> 🔒 [GDPR Overview](https://docs.google.com/document/d/1enXJ2CakH5fn6iFqu-TVDggPRQGRMCjY3Y-ClrP2qDg/edit) <br> 🗓 [Events](https://airtable.com/tblEosHDlz3iBjlUw/viweykr8Nw7wfOXTP) <br> 👫 [Hiring Control Center](https://consensys.quip.com/s52sAcblL9Ni/Hiring-Center)<br> 🛫 [Event Submission Form](https://airtable.com/shrO8tdh8prtUAWcx)| 📎 [Sync Notes](https://docs.google.com/document/d/1MiIpbl88SPtMC0qlQT_zKMJ-vOLSCREf3oIgz285LoU/edit) <br> 🔎 [User Testing](https://airtable.com/tbl48SZ7JDK4BJ3Ba/viwdOHRhUqDlPgmHU) <br> 🚀[OKRs](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=1581337366) <br> 💜 [Brand Assets](https://drive.google.com/drive/folders/1hlchdD50altEsDjPSGthikSh_tAuvUS6)| 📊 [Clubhouse Board](https://app.clubhouse.io/self-id/stories/workspace/9443/partnerships-stream) <br> 🚀 [OKRs](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=1983819787) <br> 👾 [Live Integrations](https://consensys.quip.com/QqpDA4cPO9Bd/uPort-Integrations-Overview#fEFACAkabDp) |
 
@@ -45,7 +45,7 @@ Living documents that need feedback this cycle
 
 ### Goals, Vision, Strategy
 * [Palapables](https://consensys.quip.com/0sg4A9PtwNKc/uPort-Principles-Palapa-ples-Draft)
-* [Vision (2017)](https://consensys.quip.com/3EDPA0l7TiVG/Uport-Vision-and-Strategy)=
+* [Vision (2017)](https://consensys.quip.com/3EDPA0l7TiVG/Uport-Vision-and-Strategy)
 * [2018 RAC Deck](https://docs.google.com/presentation/d/18Zc39HMLkzOUQWCvWM_aFM1XNSpOmGr8nF5Riy9V9ME/edit#slide=id.g3143079279_1_1513)
 
 OKRs
