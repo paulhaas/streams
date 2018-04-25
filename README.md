@@ -25,7 +25,6 @@ a connection point in uPort's decentralized structure <br>
 [Q1 OKRs](https://docs.google.com/spreadsheets/d/1l4CBsgBbz0kfKkr0rPizn3uzXFnShGzE19XBugMRmu0/edit#gid=29844305)
 
 ### Community Projects
-
 * [Buildbox](https://github.com/uport-project/buidlbox)
 * [Dappify](https://github.com/uport-project/dappify)
 * [uPortable](https://github.com/uport-project/uportable)
@@ -49,10 +48,14 @@ a connection point in uPort's decentralized structure <br>
 * [Sena](https://docs.google.com/document/d/1dBNpauiKCKWD2SfvHWtkdg_sjq8PHIe2CopxiEOmC4E/edit#heading=h.aczldethkqfb)
 
 ### Retrospectives
-* [Cycle Process Meta Retro](http://funretro.github.io/distributed/#e9e10fb4-ae85-45f0-bb08-2832b9073511)
-* [Q1 OKR Retro (by Stream)][http://funretro.github.io/distributed/#5b9771a1-c2dc-455e-9355-0b5badb9a8f4]
-* [Q1 OKR Retro (Group)](http://funretro.github.io/distributed/?sort=votes#c8ceb30b-dd00-49f8-b835-5bef0d9edd73) 
+standard
+* [cycle 5]()
 * [cycle 4]()
 * [cycle 3](http://funretro.github.io/distributed/#d385b5f7-7e92-49ed-8f89-5eb53c624f4d)
 * [cycle 2](http://funretro.github.io/distributed/#f0e17b00-0707-4599-8270-288b4be1b6ef)
 * [cycle 1 (2/6)](http://funretro.github.io/distributed/?sort=votes#8c977db9-3c42-494a-8c9a-f3602cdf493b)
+
+meta
+* [Cycle Process Meta Retro](http://funretro.github.io/distributed/#e9e10fb4-ae85-45f0-bb08-2832b9073511)
+* [Q1 OKR Retro (by Stream)](http://funretro.github.io/distributed/#5b9771a1-c2dc-455e-9355-0b5badb9a8f4)
+* [Q1 OKR Retro (Group)](http://funretro.github.io/distributed/?sort=votes#c8ceb30b-dd00-49f8-b835-5bef0d9edd73) 
