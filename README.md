@@ -4,13 +4,14 @@
 
 ### Cycles
 
-* [Current Cycle]()
+* [Current Cycle (5)](https://docs.google.com/document/d/1RuUkECPy0YIV_wKculNcOx4yE0FgutmRmQMDActgMJg/edit)
+* [Next Cycle (6)](https://github.com/uport-project/streams/blob/master/cycle6.md)
 * [Past Cycles]()
 * [Retrospectives](https://github.com/uport-project/streams#retrospectives)
 
 ### Needs Feedback
 Living documents that need feedback this cycle
-* ?
+* [Q2 Roadmap Draft](https://docs.google.com/spreadsheets/d/156SwdKMKuC_MEDWi8SEqQHxOwBn1vfB5wcQkeACKJpQ/edit#gid=0)
 
 ### Streams
 
