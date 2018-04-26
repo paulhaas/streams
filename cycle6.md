@@ -92,10 +92,10 @@ For each stream:
 - [ ] Standardized release note proposal (@eseoghene)
 
 **Dependencies / Requests**
-- [ ] Feedback on the roadmap [link]
-- [ ] Fill out team survey again! [link]
-- [ ] Feedback on refreshed DNA [link]
-- [ ] Feedback on release note proposal [link]
+- [ ] Feedback on the [roadmap](https://docs.google.com/spreadsheets/d/156SwdKMKuC_MEDWi8SEqQHxOwBn1vfB5wcQkeACKJpQ/edit#gid=0)
+- [ ] Fill out [team survey](https://docs.google.com/forms/d/e/1FAIpQLSeYtjV2KPGjzid-vZgWOm0bSsatx6SeJB_l4yh3O46rvjZPng/viewform)!
+- [ ] Feedback on [refreshed DNA](https://docs.google.com/document/d/1bou2J3yLSSK6KlkRrPuXbC-bv514ib8N9nXVzU9ojy8/edit?ts=5ae0ff27)
+- [ ] Feedback on release note proposal [needs link]
 
 **Questions & Planning**
 - [ ] Can the streams repo be public plz? (@bdresser)
