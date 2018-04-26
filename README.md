@@ -59,7 +59,8 @@ OKRs
 * [Bobby](https://hackmd.io/s/Sy2WIu9iz)
 * [Sena](https://docs.google.com/document/d/1dBNpauiKCKWD2SfvHWtkdg_sjq8PHIe2CopxiEOmC4E/edit#heading=h.aczldethkqfb)
 
-### Decision Papers
+### Decisioning
+* [Decision-Making Exploration (4/26)](https://docs.google.com/presentation/d/1uysNmhS6MdP9Xogo8iPvALeizuOgCElSTBZKZY8VDiU/edit#slide=id.g38e2c3c1c4_0_0)
 * [Mobile App DID Method](https://docs.google.com/document/d/17JPTCpclyhcMlnfsvUYEnm-Crme85yx3-CarpbbglKs/edit#heading=h.6v972sjcwjqw) - result: Ethr-DID in mobile app
 * [MSFT Access to Mobile Repo](https://docs.google.com/document/d/1jBjAQ8N7zJtfipjOTPZ-k003-q4MIFpg7IlYDlR-Cic/edit) - result: no code collaboration with MSFT
 
