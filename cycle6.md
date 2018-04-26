@@ -84,20 +84,25 @@ For each stream:
 ## Product Ops
 
 **Goal Delivery**
-- [ ] ... 
-- [ ] ...
-- [ ] ...
+- [ ] Roadmap (@bdresser)
+- [ ] Finalized branding steps (@michaelsena @bdresser)
+- [ ] Refreshed DNA for Brand Team (@michaelsena)
+- [ ] Measure creation of app identities (@bdresser)
+- [ ] Cross-DID data sharing problem statement (@bdresser)
+- [ ] Standardized release note proposal (@eseoghene)
 
-**Dependencies**
-- [ ] ...
-- [ ] ...
+**Dependencies / Requests**
+- [ ] Feedback on the roadmap [link]
+- [ ] Fill out team survey again! [link]
+- [ ] Feedback on refreshed DNA [link]
+- [ ] Feedback on release note proposal [link]
 
 **Questions & Planning**
-- [ ] ...
+- [ ] Can the streams repo be public plz? (@bdresser)
 - [ ] ...
 
 **OKR Tally**<br>
-`#🙂  #😐  #🙁`
+`2🙂  4😐  3🙁`
 
 ## Dev Experience
 
