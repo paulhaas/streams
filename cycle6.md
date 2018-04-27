@@ -48,17 +48,16 @@ For each stream:
 ## Decentralization
 
 **Goal Delivery**
-- [ ] ... 
-- [ ] ...
-- [ ] ...
+- [ ] Submit ERC for ethr-DID @oed
+- [ ] Draft spec of data sharing between two DIDs @christian
+- [ ] Submit PR for ERC780 @oed
 
 **Dependencies**
-- [ ] ...
-- [ ] ...
+- [ ] Provide feedback to the ethr-DID ERC (Decentralization/Team)
+- [ ] Guide on How to Issue Attestations, on- and off-chain (DevX)
+- [ ] Write article on how ethr-DID and ERC780 would work together (DevX/Mktg)
 
 **Questions & Planning**
-- [ ] ...
-- [ ] ...
 
 **OKR Tally**<br>
 `#🙂  #😐  #🙁`
