@@ -151,20 +151,20 @@ For each stream:
 ## Infrastructure
 
 **Goal Delivery**
-- [ ] ... 
-- [ ] ...
-- [ ] ...
+- [ ] Multi-account on Unnu and Sensui 
+- [ ] CircleCI for Onfido SDK (@cristobal)
+- [ ] Update Nisaba to issue attestations for fuel
+- [ ] Keep working on fuel token format for SDK
+- [ ] Update Pututu & Caleuche to use DID-JWT
 
 **Dependencies**
-- [ ] ...
-- [ ] ...
+- [ ] Patience :) 
 
 **Questions & Planning**
-- [ ] ...
-- [ ] ...
+- [ ] Q: Updates to Caleuche to handle stickers/p2p data not this cycle. (Maybe sooner if you can help!)
 
 **OKR Tally**<br>
-`#🙂  #😐  #🙁`
+`4🙂  8😐  0🙁`
 
 ## BizOps
 
