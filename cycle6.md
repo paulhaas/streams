@@ -51,6 +51,10 @@ For each stream:
 - [ ] Submit ERC for ethr-DID @oed
 - [ ] Draft spec of data sharing between two DIDs @christian
 - [ ] Submit PR for ERC780 @oed
+- [ ] Q: Conduct 3-5 user tests with v0.2.0, document feedback @sena
+- [ ] Q: Kickoff v0.3.0 with Philosophie @sena
+- [ ] Q: Engage designer for stickers @sena
+- [ ] Q: Build JWT storage functionality (Messaging Chasqui, Backup Caleuche)
 
 **Dependencies**
 - [ ] Provide feedback to the ethr-DID ERC (Decentralization/Team)
@@ -58,6 +62,7 @@ For each stream:
 - [ ] Write article on how ethr-DID and ERC780 would work together (DevX/Mktg)
 
 **Questions & Planning**
+- [ ] What happens when you send 2 messages to the same Chasqui?
 
 **OKR Tally**<br>
 `#🙂  #😐  #🙁`
