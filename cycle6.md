@@ -12,20 +12,24 @@ For each stream:
 ## Mobile
 
 **Goal Delivery**
-- [ ] ... 
-- [ ] ...
-- [ ] ...
+- [ ] Ethr-DID Identity Creation (by default) (@pelle) (for Ethereal!)
+- [ ] Working data backup (@simonas) (for Ethereal!)
+- [ ] Analytics opt-out during onboarding (@gbugyis)
+- [ ] Update app to support latest library spec (@aldigjko, @pelle)
+- [ ] Investigate Onfido 'pending' state (@greg)
+- [ ] Audit crashes on low connectivity (@greg @simonas)
 
 **Dependencies**
-- [ ] ...
-- [ ] ...
+- [ ] CircleCI work for Onfido SDK fix (infra / @cristobal)
+- [ ] Update Nisaba & Caleuche to support DID-JWT (@infra)
+- [ ] Testing help for backup & ethr-DID creation (@team)
 
 **Questions & Planning**
-- [ ] ...
+- [ ] FB <> uPort data import? (@jonny)
 - [ ] ...
 
 **OKR Tally**<br>
-`#🙂  #😐  #🙁`
+`7🙂  5😐  0🙁`
 
 ## Partnerships
 
