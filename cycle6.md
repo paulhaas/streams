@@ -169,20 +169,23 @@ For each stream:
 ## BizOps
 
 **Goal Delivery**
-- [ ] ... 
-- [ ] ...
-- [ ] ...
+- [ ] GDPR product updates spec'd and started 
+- [ ] GDPR articles released (2; reviewed by legal) 
+- [ ] External recruiter signed and started 
+- [ ] Full plan for governance model work including expternal support 
+- [ ] Projected budget + RAC contingent items settled with finance 
+- [ ] Clear articulation of strategy + core outstanding questions + plan to settle
 
 **Dependencies**
 - [ ] ...
 - [ ] ...
 
 **Questions & Planning**
-- [ ] ...
+- [ ] Deprioritizing advisory board, OKR support for growth streams, and a few other non-critical biz-ops OKRs
 - [ ] ...
 
 **OKR Tally**<br>
-`#🙂  #😐  #🙁`
+`7🙂  5😐  8🙁`
 
 ## Meta / Misc
 * ?
