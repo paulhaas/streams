@@ -115,20 +115,22 @@ For each stream:
 ## Dev Experience
 
 **Goal Delivery**
-- [ ] ... 
-- [ ] ...
-- [ ] ...
+- [ ] Update uPort-Connect to newest uPort-JS (for Ethr-DID support)
+- [ ] Update demo app to work eith Ethr-DID
+- [ ] Launch new docs! 
+- [ ] Updates to content/correctness of docs
 
 **Dependencies**
-- [ ] ...
-- [ ] ...
+- [ ] Mobile: Support new callback spec in mobile (@aldi ?)
+- [ ] Marketing/Community: messaging around Ethr-DID compatability 
+- [ ] Team: feedback on [new docs](https://rekt.uport.space/)
+- [ ] Team: feedback on [App Manager v2 doc](https://hackmd.io/AfmlLMSETFmEthYZaZvxow)
 
 **Questions & Planning**
-- [ ] ...
-- [ ] ...
+- [ ] Plan for library refactor rollout / two sets of breaking changes, what comes when?
 
 **OKR Tally**<br>
-`#🙂  #😐  #🙁`
+`1🙂  4😐  2🙁`
 
 ## Community
 
