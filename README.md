@@ -9,9 +9,10 @@
 * [Past Cycles]()
 * [Retrospectives](https://github.com/uport-project/streams#retrospectives)
 
-### Needs Feedback
+### Live input requests (& BCK Bounties!)
 Living documents that need feedback this cycle
 * [Q2 Roadmap Draft](https://docs.google.com/spreadsheets/d/156SwdKMKuC_MEDWi8SEqQHxOwBn1vfB5wcQkeACKJpQ/edit#gid=0)
+* [Test Q for 10 BCK] (https://docs.google.com/document/d/1q4W9oROmeRVufYCf-sPWets6ocM_bGv2v0ZUFxlvTnk/edit?usp=sharing)
 
 ### Streams
 
