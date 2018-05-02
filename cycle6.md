@@ -81,7 +81,7 @@ For each stream:
 - [ ] What happens when you send 2 messages to the same Chasqui?
 
 **OKR Tally**<br>
-`#🙂  #😐  #🙁`
+`1🙂  5😐  8🙁`
 
 ## Marketing
 
