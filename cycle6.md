@@ -29,6 +29,7 @@ For each stream:
 - [ ] Update app to support latest library spec (@aldigjko, @pelle)
 - [ ] Investigate Onfido 'pending' state (@greg)
 - [ ] Audit crashes on low connectivity (@greg @simonas)
+- [ ] Home Screen redesign
 
 **Dependencies**
 - [ ] CircleCI work for Onfido SDK fix (infra / @cristobal)
