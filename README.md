@@ -1,18 +1,26 @@
-# streams   ![Q](https://img.shields.io/badge/Q-2-lightgrey.svg) ![Cycle](https://img.shields.io/badge/cycle-5-blue.svg)
+# streams   ![Q](https://img.shields.io/badge/Q-2-lightgrey.svg) ![Cycle](https://img.shields.io/badge/cycle-6-blue.svg)
 
 [Q2 OKR Tracker](https://docs.google.com/spreadsheets/d/1w4y30-KqC_CL-9Wh7BRsNsxS9Ic4UkrTQDIR960HQO8/edit#gid=146119440)  |  [Q2 Roadmap (WIP)](https://docs.google.com/spreadsheets/d/156SwdKMKuC_MEDWi8SEqQHxOwBn1vfB5wcQkeACKJpQ/edit#gid=0)  |  [Metrics Dashboard](https://radar.uport.space/d/MFjYE8ziz/initial-metrics?orgId=1)  |  [Find your stream](https://github.com/uport-project/streams#streams) <br>
 
 ### Cycles
-
-* [Current Cycle (5)](https://docs.google.com/document/d/1RuUkECPy0YIV_wKculNcOx4yE0FgutmRmQMDActgMJg/edit)
-* [Next Cycle (6)](https://github.com/uport-project/streams/blob/master/cycle6.md)
+* [Current Cycle (6)](https://github.com/uport-project/streams/blob/master/cycle6.md)
 * [Past Cycles]()
 * [Retrospectives](https://github.com/uport-project/streams#retrospectives)
 
-### Live input requests (& BCK Bounties!)
-Living documents that need feedback this cycle
+### Live input requests
+Tasks & Housekeeping
+* [Team Survey](https://docs.google.com/forms/d/e/1FAIpQLSeYtjV2KPGjzid-vZgWOm0bSsatx6SeJB_l4yh3O46rvjZPng/viewform)
+
+Living documents that need feedback
 * [Q2 Roadmap Draft](https://docs.google.com/spreadsheets/d/156SwdKMKuC_MEDWi8SEqQHxOwBn1vfB5wcQkeACKJpQ/edit#gid=0)
+* [Ethr-DID ERC](https://hackmd.io/NlRESz5VRn2DXATVRh6u9g)
+* [uPort Brand DNA](https://docs.google.com/document/d/1bou2J3yLSSK6KlkRrPuXbC-bv514ib8N9nXVzU9ojy8/edit?ts=5ae0ff27)
+* [App Manager v2](https://hackmd.io/AfmlLMSETFmEthYZaZvxow)
+
+Testing & Dogfood
 * [Test Q for 10 BCK](https://docs.google.com/document/d/1q4W9oROmeRVufYCf-sPWets6ocM_bGv2v0ZUFxlvTnk/edit?usp=sharing)
+* [New Docs Site](https://rekt.uport.space/)
+* Test Backup & Ethr-DID Creation in the app (WIP)
 
 ### Streams
 
