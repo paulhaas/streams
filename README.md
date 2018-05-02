@@ -7,6 +7,8 @@
 * [Past Cycles]()
 * [Retrospectives](https://github.com/uport-project/streams#retrospectives)
 
+---
+
 ### Live input requests
 Tasks & Housekeeping
 * [Team Survey](https://docs.google.com/forms/d/e/1FAIpQLSeYtjV2KPGjzid-vZgWOm0bSsatx6SeJB_l4yh3O46rvjZPng/viewform)
@@ -21,6 +23,8 @@ Testing & Dogfood
 * [Test Q for 10 BCK](https://docs.google.com/document/d/1q4W9oROmeRVufYCf-sPWets6ocM_bGv2v0ZUFxlvTnk/edit?usp=sharing)
 * [New Docs Site](https://rekt.uport.space/)
 * Test Backup & Ethr-DID Creation in the app (WIP)
+
+---
 
 ### Streams
 
