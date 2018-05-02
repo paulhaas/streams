@@ -45,20 +45,20 @@ For each stream:
 ## Partnerships
 
 **Goal Delivery**
-- [ ] ... 
-- [ ] ...
-- [ ] ...
+- [ ] Launch VIP plan w/ Status, ti&m, Toshi, Alastria and set-up cross-stream meetings  
+- [ ] Ongoing push with dapps (Aragon, Indorse, Golem and more) to achieve OKRs
+- [ ] Set-up key meetings around NYC BC week
+- [ ] Partnership articles
 
 **Dependencies**
-- [ ] ...
-- [ ] ...
+- [ ] Cross-stream meetings from VIPs (Product, Community, Infra)
 
 **Questions & Planning**
 - [ ] ...
 - [ ] ...
 
 **OKR Tally**<br>
-`#🙂  #😐  #🙁`
+`3🙂  6😐  2🙁`
 
 ## Decentralization
 
@@ -96,7 +96,7 @@ For each stream:
 - [ ] How much to rely on rebrand? Timeline? What to slow down to publish with new branding vs what to publish and make changes later?
 
 **OKR Tally**<br>
-`#🙂  #😐  #🙁`
+`#😐`
 
 ## Product Ops
 
