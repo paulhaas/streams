@@ -8,6 +8,17 @@ For each stream:
 <b>OKR Tally:</b> what's overview status of KRs after last cycle?
 </pre>
 
+* [Mobile](#mobile)
+* [Partnerships](#partnerships)
+* [Decentralization](#decentralization)
+* [Marketing](#marketing)
+* [Product Ops](#product-ops)
+* [Dev Experience](#dev-experience)
+* [Community](#community)
+* [Infrastructure](#infrastructure)
+* [BizOps](#bizops)
+* [Meta / Misc](#meta--misc)
+* [Public updates/asks for this cycle](#public-updatesasks-for-this-cycle)
 
 ## Mobile
 
