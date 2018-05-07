@@ -9,7 +9,7 @@
 
 ---
 
-### Live input requests
+### Live requests
 Tasks & Housekeeping
 * [Team Survey](https://docs.google.com/forms/d/e/1FAIpQLSeYtjV2KPGjzid-vZgWOm0bSsatx6SeJB_l4yh3O46rvjZPng/viewform)
 
@@ -18,6 +18,10 @@ Living documents that need feedback
 * [Ethr-DID ERC](https://hackmd.io/NlRESz5VRn2DXATVRh6u9g)
 * [uPort Brand DNA](https://docs.google.com/document/d/1bou2J3yLSSK6KlkRrPuXbC-bv514ib8N9nXVzU9ojy8/edit?ts=5ae0ff27)
 * [App Manager v2](https://hackmd.io/AfmlLMSETFmEthYZaZvxow)
+
+Sharing & Schilling
+* Tweet: "We're entering the age of data privacy, ushered in by GDPR, changing public sentiment, and new tech like @uport_me https://medium.com/uport/entering-the-age-of-data-privacy-7c3451ed3a57 "
+* 
 
 Testing & Dogfood
 * [Test Q for 10 BCK](https://docs.google.com/document/d/1q4W9oROmeRVufYCf-sPWets6ocM_bGv2v0ZUFxlvTnk/edit?usp=sharing)
