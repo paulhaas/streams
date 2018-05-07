@@ -47,7 +47,7 @@ Testing & Dogfood
 * Infra Release Checklist (WIP)
 * [Data Collection Form](https://airtable.com/shrVNPuHV6OnbOUzs)
 
-### Misc Resources
+### Key Resources
 * [Team Google Drive](https://drive.google.com/drive/folders/0AIoW-vw-5lOXUk9PVA)
 * [External Decks](https://drive.google.com/drive/folders/150Pq5nOSVCr7k41_I7ul8itedQHhWfBu)
 * [Diagram Depot](https://docs.google.com/presentation/d/1e3s-ExxxzlI0DgRTwXnaV4GaPzOlLaJPPKjzPEMZIWU/edit#slide=id.g31e70d3c03_0_71)
