@@ -139,8 +139,8 @@ For each stream:
 ## Dev Experience
 
 **Goal Delivery - Last Cycle**
-- [ ] Update uPort-Connect to newest uPort-JS (for Ethr-DID support)
-- [ ] Update demo app to work eith Ethr-DID
+- [X] Update uPort-Connect to newest uPort-JS (for Ethr-DID support)
+- [X] Update demo app to work eith Ethr-DID
 - [ ] Launch new docs! 
 - [ ] Updates to content/correctness of docs
 
