@@ -1,4 +1,4 @@
-# Cross Stream Sync [Template]
+# Cycle 7
 
 <pre>
 For each stream:
