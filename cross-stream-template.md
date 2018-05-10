@@ -8,10 +8,13 @@ For each stream:
 <b>OKR Tally:</b> what's overview status of KRs after last cycle?
 </pre>
 
+[Mobile](#mobile) | [Partnerships](#partnerships) | [Decentralization](#decentralization) | [Marketing](#marketing) | [Product Ops](#product-ops) | [Dev Experience](#dev-experience) | [Community](#community) | [Infrastructure](#infrastructure) | [BizOps](#bizops) | [Meta / Misc](#meta--misc)
 
 ## Mobile
 
-**Goal Delivery**
+**Goal Delivery - Last Cycle**
+
+**Goal Delivery - This Cycle**
 - [ ] ... 
 - [ ] ...
 - [ ] ...
@@ -29,7 +32,9 @@ For each stream:
 
 ## Partnerships
 
-**Goal Delivery**
+**Goal Delivery - Last Cycle**
+
+**Goal Delivery - This Cycle**
 - [ ] ... 
 - [ ] ...
 - [ ] ...
@@ -47,7 +52,9 @@ For each stream:
 
 ## Decentralization
 
-**Goal Delivery**
+**Goal Delivery - Last Cycle**
+
+**Goal Delivery - This Cycle**
 - [ ] ... 
 - [ ] ...
 - [ ] ...
@@ -65,7 +72,9 @@ For each stream:
 
 ## Marketing
 
-**Goal Delivery**
+**Goal Delivery - Last Cycle**
+
+**Goal Delivery - This Cycle**
 - [ ] ... 
 - [ ] ...
 - [ ] ...
@@ -83,7 +92,9 @@ For each stream:
 
 ## Product Ops
 
-**Goal Delivery**
+**Goal Delivery - Last Cycle**
+
+**Goal Delivery - This Cycle**
 - [ ] ... 
 - [ ] ...
 - [ ] ...
@@ -101,7 +112,9 @@ For each stream:
 
 ## Dev Experience
 
-**Goal Delivery**
+**Goal Delivery - Last Cycle**
+
+**Goal Delivery - This Cycle**
 - [ ] ... 
 - [ ] ...
 - [ ] ...
@@ -119,7 +132,9 @@ For each stream:
 
 ## Community
 
-**Goal Delivery**
+**Goal Delivery - Last Cycle**
+
+**Goal Delivery - This Cycle**
 - [ ] ... 
 - [ ] ...
 - [ ] ...
@@ -137,7 +152,9 @@ For each stream:
 
 ## Infrastructure
 
-**Goal Delivery**
+**Goal Delivery - Last Cycle**
+
+**Goal Delivery - This Cycle**
 - [ ] ... 
 - [ ] ...
 - [ ] ...
@@ -155,7 +172,9 @@ For each stream:
 
 ## BizOps
 
-**Goal Delivery**
+**Goal Delivery - Last Cycle**
+
+**Goal Delivery - This Cycle**
 - [ ] ... 
 - [ ] ...
 - [ ] ...
