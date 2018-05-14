@@ -22,20 +22,27 @@ For each stream:
 - [ ] Home Screen redesign
 
 **Goal Delivery - This Cycle**
-- [ ] ... 
-- [ ] ...
-- [ ] ...
+- [ ] Ethr-DID Identity Creation (by default) (@pelle)
+- [ ] Working data backup (@simonas)
+- [ ] Analytics opt-out during onboarding (@gbugyis)
+- [ ] Update app to support latest library spec (@aldigjko, @pelle)
+- [ ] Audit crashes on low connectivity (@greg @simonas)
+- [ ] Home Screen redesign
+- [ ] Fix bugs (list from @ese)
+- [ ] Unified URL (@pelle)
+- [ ] Network connectivity status banner (@jonny @simonas)
+- [ ] Create a TODO list for open sourcing Mobile App
+- [ ] CircleCI 2.0 iOS support (@josh)
+- [ ] Migrate settings reducer to SQL
+- [ ] Architecture Diagram for the Mobile App (@pelle)
 
 **Dependencies**
-- [ ] ...
-- [ ] ...
+- [ ] Update specs (@zach)
+- [ ] Email address for CI machine (@beck)
 
-**Questions & Planning**
-- [ ] ...
-- [ ] ...
 
 **OKR Tally**<br>
-`#🙂  #😐  #🙁`
+`8🙂  4😐  0🙁`
 
 ## Partnerships
 
