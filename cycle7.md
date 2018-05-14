@@ -214,28 +214,31 @@ For each stream:
 ## BizOps
 
 **Goal Delivery - Last Cycle**
-- [ ] GDPR product updates spec'd and started 
-- [ ] GDPR articles released (2; reviewed by legal) 
-- [ ] External recruiter signed and started 
-- [ ] Full plan for governance model work including expternal support 
+- [X] GDPR product updates spec'd and started 
+- [X] GDPR articles released (2; reviewed by legal) 
+- [X] External recruiter signed and started 
+- [X] Full plan for governance model work including expternal support 
 - [ ] Projected budget + RAC contingent items settled with finance 
 - [ ] Clear articulation of strategy + core outstanding questions + plan to settle
 
 **Goal Delivery - This Cycle**
-- [ ] ... 
-- [ ] ...
-- [ ] ...
+- [ ] Ongoing governance work
+- [ ] Working with finance on RAC items to budget
+- [ ] Ongoing sourcing work for recruiting with diversity and international focus
+     - [ ] Prioritize design and product hires, souricng on those + others where relevant
+- [ ] GDPR compliance this week. COntinuous work on assuring compliance. Writing & sharing articles.
+- [ ] 1PW split for additional uPort security
 
 **Dependencies**
-- [ ] ...
+- [ ] 
 - [ ] ...
 
 **Questions & Planning**
-- [ ] ...
+- [ ] Decisions google doc
 - [ ] ...
 
 **OKR Tally**<br>
-`#🙂  #😐  #🙁`
+`7🙂  2😐  7🙁`
 
 ## Meta / Misc
 * ?
