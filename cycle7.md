@@ -191,23 +191,22 @@ For each stream:
 
 **Goal Delivery - Last Cycle**
 - [ ] Multi-account on Unnu and Sensui 
-- [ ] CircleCI for Onfido SDK (@cristobal)
-- [ ] Update Nisaba to issue attestations for fuel
+- [X] CircleCI for Onfido SDK (@cristobal)
+- [X] Update Nisaba to issue attestations for fuel
 - [ ] Keep working on fuel token format for SDK
-- [ ] Update Pututu & Caleuche to use DID-JWT
+- [X] Update Pututu & Caleuche to use DID-JWT
 
 **Goal Delivery - This Cycle**
-- [ ] ... 
-- [ ] ...
-- [ ] ...
+- [ ] Finish and Polish Multi-account on Unnu and Sensui 
+- [ ] CircleCI for Onfido SDK IOS (@cristobal)
+- [ ] Keep working on fuel token format for SDK
+- [ ] PoC for sensui as a service
 
 **Dependencies**
-- [ ] ...
-- [ ] ...
+- [ ] Help from Mobile for FuelToken format for SDK (@mircea & @ese)
 
 **Questions & Planning**
-- [ ] ...
-- [ ] ...
+- [ ] Is sensui ready for OpenSource it ?
 
 **OKR Tally**<br>
 `#🙂  #😐  #🙁`
