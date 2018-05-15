@@ -241,7 +241,7 @@ For each stream:
 - [ ] ...
 
 **OKR Tally**<br>
-`7🙂  2😐  7🙁`
+`7🙂  2😐  8🙁`
 
 ## Meta / Misc
 * ?
