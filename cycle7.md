@@ -148,21 +148,24 @@ For each stream:
 **Goal Delivery - Last Cycle**
 - [X] Update uPort-Connect to newest uPort-JS (for Ethr-DID support)
 - [X] Update demo app to work eith Ethr-DID
-- [ ] Launch new docs! 
+- [X] Launch new docs! 
 - [ ] Updates to content/correctness of docs
 
 **Goal Delivery - This Cycle**
-- [ ] ... 
-- [ ] ...
-- [ ] ...
+- [ ] Add unified URLs to new libs ([epic](https://app.clubhouse.io/self-id/epic/9784/libraries-major-version-release)) (@zachferland)
+- [ ] Test coverage for new libs (@zachferland)
+- [ ] Documentation for new libs (@ ? )
+- [ ] Fix issues in current demo
+- [ ] Pull github tutorials in to docs site (@levi ?) 
 
 **Dependencies**
-- [ ] ...
-- [ ] ...
+- [ ] Keep Zach & Dev X updated on evolving spec changes & launch dates (@pelle)
+- [ ] Help debugging full integration tests with demos (@mobile, @ese)
+- [ ] Marketing/Community: launch plan & content for new libs
 
 **Questions & Planning**
-- [ ] ...
-- [ ] ...
+- [ ] Trying out Waffle? [Proposal here](https://github.com/uport-project/streams/issues/5)
+- [ ] muPort-based app manager [Proposal here](https://github.com/uport-project/streams/issues/4)
 
 **OKR Tally**<br>
 `#🙂  #😐  #🙁`
