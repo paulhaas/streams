@@ -175,20 +175,41 @@ For each stream:
 **Goal Delivery - Last Cycle**
 
 **Goal Delivery - This Cycle**
-- [ ] ... 
-- [ ] ...
-- [ ] ...
+- [ ] Bounty Categorization System (6 hours) 
+- Issue (1 Hour)
+- Feature (1 Hour)
+- Demonstration (1 Hour
+- Web Application (1 Hour)
+- Infrastructure (1 Hour)
+ 
+- [ ] PHP Bounty Specification [Bounty] (6 Hours)
+- did-jwt
+- ES256K
+
+- [ ] uPort Verify Specification [Bounty] (5 Hours)
+- GitHub Attestation
+- Twitter Attestation
+- Cleanup Repo Code
+- [ ] Chrome Extension Specification [Bounty] (5 Hours)
+- AppManager Integration (Register/Test DApps)
+- Intercept Network Requests (Mock Backend Server)
+- [ ] Riot House Cleaning (5 Hours)
+- Fix Password Reset
+- Registration Form (project, expertise, interest)
+- Simplify Rooms
+
 
 **Dependencies**
-- [ ] ...
-- [ ] ...
+- [ ] Developer Experience
+- Integrate New Libraries
+- Documentation (Segregated Accounts + New Libraries)
 
 **Questions & Planning**
 - [ ] ...
 - [ ] ...
 
 **OKR Tally**<br>
-`#🙂  #😐  #🙁`
+`3🙂  8😐  1🙁`
 
 ## Infrastructure
 
