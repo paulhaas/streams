@@ -47,23 +47,23 @@ For each stream:
 ## Partnerships
 
 **Goal Delivery - Last Cycle**
-- [ ] Kick off engagements with VIP partners 
+- [x ] Kick off engagements with VIP partners
 
 **Goal Delivery - This Cycle**
-- [ ] ... 
-- [ ] ...
-- [ ] ...
+- [ ] Onboard more partners onto Riot
+- [ ] CRM tool that works for All (Community)
+- [ ] Feature Dapps on website, Augur bang
+- [ ] Devin handover
+- [ ] DID SDK & feedback loops
 
 **Dependencies**
-- [ ] ...
-- [ ] ...
+- [ ] Mobile SDK
 
 **Questions & Planning**
-- [ ] ...
-- [ ] ...
+- [ ] Status, current thinking on mobile SDK / DID SDK - clear statement
 
 **OKR Tally**<br>
-`#🙂  #😐  #🙁`
+`3🙂  5😐  3🙁`
 
 ## Decentralization
 
